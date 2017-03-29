@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  category: MyString
+  event_date: 2017-03-29 10:29:30
+  image_url: MyString
+  price: 1.5
+
+two:
+  name: MyString
+  type: 
+  category: MyString
+  event_date: 2017-03-29 10:29:30
+  image_url: MyString
+  price: 1.5
